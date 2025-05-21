@@ -4,7 +4,9 @@
 Analyzed a movie dataset using Microsoft Excel. The project includes cleaning and exploring data, and building a dynamic dashboard using Pivot Tables and Charts to show insights like movie count, average ratings, and revenue by genre and release year.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard-preview.png)
+
+![Dashboard Screenshot](Dashboard_Excel-Project1.png)
+
 
 ## 🧰 Tools Used
 - Microsoft Excel
